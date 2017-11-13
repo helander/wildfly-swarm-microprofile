@@ -17,6 +17,3 @@ docker run -p 9001:9001 my-wars-image
 In case you need to change the internal port number:
 
 docker run -p 9001:12345 -e SERVER_PORT=12345 my-wars-image
-
-
-
